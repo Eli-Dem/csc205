@@ -1,5 +1,4 @@
 package com.csc205.project1;
-
 /**
  * Driver class used to test Point implementation for Project 1.
  *
